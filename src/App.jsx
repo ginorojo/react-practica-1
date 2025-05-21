@@ -22,38 +22,38 @@ function App() {
 
      <section className=' md:pt-10 md:grid-cols-3 grid grid-cols-2 place-items-center px-[20px] '>
         <Card
-            img ="/photo1.png"
+            img ="/react-practica-1/photo1.png"
             nombre ="Bill Mahoney"
             cargo = "PRODUCT OWNER"
                 
         />
         <Card
-            img ="/photo2.png"
+            img ="/react-practica-1/photo2.png"
             nombre ="Saba Cabrera"
             cargo = "ART DIRECTOR"
                 
         />
         <Card
-            img ="/photo3.png"
+            img ="/react-practica-1/photo3.png"
             nombre ="Shae Le"
             cargo = "TECH LEAD"
           
                 
         />
         <Card
-            img ="/photo4.png"
+            img ="/react-practica-1/photo4.png"
             nombre ="Skylah Lu"
             cargo = "UX DESIGNER"
                 
         />
         <Card
-            img ="/photo5.png"
+            img ="/react-practica-1/photo5.png"
             nombre ="Griff Richards"
             cargo = "DEVELOPER"
                 
         />
         <Card
-            img ="/photo6.png"
+            img ="/react-practica-1/photo6.png"
             nombre ="Stahn Jhon"
             cargo = "DEVELOPER"
                 
